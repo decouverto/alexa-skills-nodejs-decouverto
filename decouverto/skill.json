@@ -1,0 +1,17 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "fr-FR": {
+          "name": "découverto"
+        }
+      }
+    },
+    "apis": {
+      "custom": {
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}

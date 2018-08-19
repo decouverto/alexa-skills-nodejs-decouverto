@@ -1,0 +1,12 @@
+{
+  "name": "decouverto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.7",
+    "ask-sdk-model": "^1.4.1",
+    "sync-request": "^6.0.0"
+  }
+}
